@@ -1,0 +1,4 @@
+environments:
+  vpc:
+    name: "VPC and Network"
+    templateName: "aws-vpc"
